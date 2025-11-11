@@ -24,7 +24,7 @@ Python 3.10+ ve aşağıdaki kütüphaneler gereklidir:
 `pip install pygame pygame_gui numpy astropy`
 
 # Kullanım
-stars.exe dosyasını [Buraya](link ekienicek) tıklayarak indirip kullanabilirsiniz.
+stars.exe dosyasını [Buraya](https://github.com/YusaBecerikli/Cosmos-Simulator/releases/download/0.1/stars.exe) tıklayarak indirip kullanabilirsiniz.
 
 Viewport: Gezegenleri yerleştirmek için tıklayın, orta fare veya sağ tık ile kamera hareket ettirebilirsiniz.
 
