@@ -23,7 +23,7 @@ Python 3.10+ ve aşağıdaki kütüphaneler gereklidir:
 
 `pip install pygame pygame_gui numpy astropy`
 
-*Kullanım*
+# Kullanım
 stars.exe dosyasını [Buraya](link ekienicek) tıklayarak indirip kullanabilirsiniz.
 
 Viewport: Gezegenleri yerleştirmek için tıklayın, orta fare veya sağ tık ile kamera hareket ettirebilirsiniz.
@@ -38,5 +38,5 @@ Silme işlemi onay penceresi ile gerçekleşir.
 Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır.
 
-*Katkı*
+# Katkı
 Eğer projeye katkı sağlamak istiyorsanız. (Özellikle astorpy kütüphanesinden beni kurtararak dosya boyutunu azaltmak) myusabecerikli@gmail.com'a mail atarsanız daha hızlı dönüş yaparım.
